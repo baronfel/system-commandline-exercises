@@ -11,6 +11,8 @@ We want to understand how users experience the library holistically - acquiring 
 
 As you attempt the exercises, we'll be looking for areas where the library, documentation, or general flow are unexpected or present unreasonable difficulty. It helps a lot if you verbalize what your thoughts are along the way, as we don't (yet!) have a way of collecting telemetry on your brain during the exercise.
 
+Each of the exercises will provide some amount of code representing the domain logic of the problem. Your tasks will largely be focused on how you design command line applications to integrate into these domain functions. Of course you are free to write any other code you need to accomplish that goal, but there shouldn't be any 'gotchas' or huge gaps in functionality missing.
+
 ## Prerequisites
 
 You should only need the following to attempt the exercises:
