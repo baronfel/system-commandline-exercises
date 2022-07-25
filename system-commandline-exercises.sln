@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hello-world", "hello-world\hello-world.csproj", "{605E6117-1A5A-4B86-8ADC-ECB01AD58E7A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hello-world", "01-hello-world\hello-world.csproj", "{605E6117-1A5A-4B86-8ADC-ECB01AD58E7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "star-trek", "star-trek\star-trek.csproj", "{24FAEEC4-9A99-465A-A105-44DBE67FF4CA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "star-trek", "02-star-trek\star-trek.csproj", "{24FAEEC4-9A99-465A-A105-44DBE67FF4CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
